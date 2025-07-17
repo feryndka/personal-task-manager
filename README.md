@@ -66,17 +66,19 @@ Untuk menjalankan proyek ini secara lokal, ikuti langkah-langkah berikut:
     ```
 
 2.  **Instalasi Dependensi**
-    Pastikan Anda memiliki Node.js (v18 atau lebih baru) dan npm terinstal.
+
+    Pastikan memiliki Node.js (v18 atau lebih baru) dan npm terinstal.
 
     ```bash
     npm install
     ```
 
-3.  **Menjalankan Server Development**
+4.  **Menjalankan Server Development**
 
     ```bash
     npm run dev
     ```
 
-4.  **Buka Aplikasi**
+5.  **Buka Aplikasi**
+
     Buka browser dan navigasikan ke `http://localhost:3000`.
